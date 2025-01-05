@@ -7,3 +7,6 @@
   max-width: 1280px;
   margin: auto;
 }
+*{
+  scroll-behavior: smooth;
+}

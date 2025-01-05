@@ -4,7 +4,7 @@ import CommonWork from '../Common/CommonWork'
 const Works = () => {
   return (
     <>
-      <section className='my-[42px] '>
+      <section id='work' className='my-[42px] '>
         <div className="container">
           <div className="row">
             <h2 className='my-[42px] text-center text-[32px] font-semibold font-epilogue text-brand-color leading-[42px]'>Latest work</h2>

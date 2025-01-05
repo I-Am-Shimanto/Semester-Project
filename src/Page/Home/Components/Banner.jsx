@@ -13,11 +13,11 @@ const Banner = () => {
               <p className='w-[500px] mt-6 mb-12 text-[17px] font-normal font-epilogue text-brand-color leading-[27px] '>This is a template Figma file, turned into code using Anima.
                 Learn more at AnimaApp.com</p>
               <div className="btn w-[211px] h-[78px] flex justify-center items-center bg-brand-color text-xl font-semibold font-epilogue text-white leading-[30px] hover:bg-yellow-100 hover:text-brand-color duration-[0.3s] rounded-xl">
-                <Link>Contact</Link>
+                <Link to='/contact'>Contact</Link>
               </div>
             </div>
-            <div className="img">
-              <img src="images/banner.png" alt="banner" />
+            <div className="img ">
+              <img className='w-[400px] h-[400px] mr-[40px] rounded-[500px]' src="images/shimanto.png" alt="banner" />
             </div>
           </div>
         </div>

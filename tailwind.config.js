@@ -11,7 +11,8 @@ export default {
     //   center: true,
     // },
     fontFamily: {
-      epilogue: ['Epilogue', 'serif'],
+      'epilogue': ['Epilogue', 'serif'],
+      'poppins': ['Poppins', 'serif'],
     },
   },
   plugins: [],

@@ -13,7 +13,7 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <>
-      <footer className='pt-[42px] pb-[86px]'>
+      <footer id='footer' className='pt-[42px] pb-[86px]'>
         <div className="container">
           <div className="heading">
             <h2 className='px-6 text-[32px] font-semibold font-epilogue text-brand-color leading-[42px] mb-6'>Lets work together</h2>
