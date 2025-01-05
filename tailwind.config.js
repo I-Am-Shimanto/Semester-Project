@@ -7,9 +7,9 @@ export default {
         'brand-color': '#2D2D2D',
       },
     },
-    container: {
-      center: true,
-    },
+    // container: {
+    //   center: true,
+    // },
     fontFamily: {
       epilogue: ['Epilogue', 'serif'],
     },
