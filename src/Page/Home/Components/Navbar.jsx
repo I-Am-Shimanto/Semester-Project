@@ -13,7 +13,7 @@ const Navbar = () => {
                   <img className='w-[100px] rounded-[10px]' src="images/logo.png" alt="logo" />
                 </Link>
                 </div>
-                <div className="hidden lg:flex navbar-end">
+                <div className="navbar-end">
                 <ul className="menu menu-horizontal px-1">
                   <li className='text-[17px] font-normal font-epilogue text-brand-color leading-[27px] hover:text-red-400 px-6 py-3 hover:bg-black duration-[0.5s] rounded-[10px]'><a href="#footer">About</a></li>
                   <li className='text-[17px] font-normal font-epilogue text-brand-color leading-[27px] hover:text-red-400 px-6 py-3 hover:bg-black duration-[0.5s] rounded-[10px]'><a href="#work">Work</a></li>
