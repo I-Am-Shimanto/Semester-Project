@@ -7,7 +7,7 @@ const Banner = () => {
       <section>
         <div className="container">
           <div className="row flex justify-between px-[56px] pt-[42px] pb-[58px]">
-            <div className="text w-[620px]">
+            <div className="text w-[620px] ml-10">
               <h2 className='mt-4 mb-6 text-xl font-semibold font-epilogue text-brand-color leading-[30px]'>Branding | Web making </h2>
               <h1 className='text-[68px] font-semibold font-epilogue text-brand-color'>Web Designer</h1>
               <p className='w-[500px] mt-6 mb-12 text-[17px] font-normal font-epilogue text-brand-color leading-[27px] '>This is a template Figma file, turned into code using Anima.
