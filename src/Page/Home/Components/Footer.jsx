@@ -42,7 +42,7 @@ const Footer = () => {
                 <input className='w-[520px] h-[59px] bg-[#F3F3F3] pl-6 text-[17px] font-normal font-epilogue text-brand-color leading-[27px] outline-none' type="text" placeholder='Name'/>
                 <input className='w-[520px] h-[59px] bg-[#F3F3F3] pl-6 text-[17px] font-normal font-epilogue text-brand-color leading-[27px] outline-none mt-3 mb-6' type="email" placeholder='Email' />
                 <div>
-                  <button type='submit' className='w-[199px] px-[64px] py-6 bg-brand-color text-xl font-semibold font-epilogue text-white leading-[30px] rounded-xl hover:bg-pink-500 hover:text-brand-color duration-[0.3s]'>
+                  <button type='submit' className='w-[199px] px-[64px] py-6 bg-brand-color text-xl font-semibold font-epilogue text-white leading-[30px] rounded-xl hover:bg-pink-500 hover:text-brand-color duration-[0.3s] hover:scale-[1.05]'>
                     Submit
                   </button>
                 </div>

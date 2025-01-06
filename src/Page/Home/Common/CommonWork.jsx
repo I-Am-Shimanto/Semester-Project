@@ -3,7 +3,7 @@ import React from 'react'
 const CommonWork = ({img , name , text}) => {
   return (
     <>
-      <div className='w-[394.67px]'>
+      <div className='w-[394.67px] hover:scale-[1.05] duration-[0.3s] hover:bg-gray-100'>
         <div className="img">
           {img}
         </div>

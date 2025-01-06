@@ -5,7 +5,7 @@ import { FaStar } from "react-icons/fa";
 const CommonTestimonial = ({head , img , name , brand}) => {
   return (
     <>
-      <div className='w-[394.67px] h-[330px] bg-[#F3F3F3] p-[42px]'>
+      <div className='w-[394.67px] h-[330px] bg-[#F3F3F3] p-[42px] hover:scale-[1.05] duration-[0.3s]'>
         <h2 className='text-xl font-semibold font-epilogue text-brand-color leading-[30px] mb-[68px]'>{head}</h2>
         <div className='flex gap-4'>
           <div>

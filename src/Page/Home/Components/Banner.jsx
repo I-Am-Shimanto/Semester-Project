@@ -12,7 +12,7 @@ const Banner = () => {
               <h1 className='text-[68px] font-semibold font-epilogue text-brand-color'>Web Designer</h1>
               <p className='w-[500px] mt-6 mb-12 text-[17px] font-normal font-epilogue text-brand-color leading-[27px] '>This is a template Figma file, turned into code using Anima.
                 Learn more at AnimaApp.com</p>
-              <div className="btn w-[211px] h-[78px] flex justify-center items-center bg-brand-color text-xl font-semibold font-epilogue text-white leading-[30px] hover:bg-yellow-100 hover:text-brand-color duration-[0.3s] rounded-xl">
+              <div className="btn w-[211px] h-[78px] flex justify-center items-center bg-brand-color text-xl font-semibold font-epilogue text-white leading-[30px] hover:bg-yellow-100 hover:text-brand-color duration-[0.3s] rounded-xl hover:scale-[1.05]">
                 <Link to='/contact'>Contact</Link>
               </div>
             </div>

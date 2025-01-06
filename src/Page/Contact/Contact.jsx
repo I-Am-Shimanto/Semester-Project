@@ -14,7 +14,7 @@ import { FaFacebook } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <>
+    <div className='bg-white'>
       <Navbar />
       <section className='mt-[75px]'>
         <div className="container">
@@ -75,7 +75,7 @@ const Contact = () => {
           </div>
         </div>
       </section>
-    </>
+    </div>
   )
 }
 
